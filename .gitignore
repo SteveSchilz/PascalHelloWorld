@@ -1,0 +1,12 @@
+backup/
+*.o
+
+# application (OSX)
+hello
+helloCrashCourse 
+
+# application (WIN)
+hello.exe
+helloCrashCourse.exe
+
+
